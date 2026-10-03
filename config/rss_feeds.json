@@ -1,0 +1,92 @@
+[
+  {
+    "name": "The Hindu - National",
+    "url": "https://www.thehindu.com/news/national/?service=rss",
+    "category": "India",
+    "enabled": true
+  },
+  {
+    "name": "The Hindu - International",
+    "url": "https://www.thehindu.com/news/international/?service=rss",
+    "category": "World",
+    "enabled": true
+  },
+  {
+    "name": "PIB India",
+    "url": "https://pib.gov.in/RssMain.aspx",
+    "category": "India",
+    "enabled": true
+  },
+  {
+    "name": "DD News India",
+    "url": "https://ddnews.gov.in/en/feed/",
+    "category": "India",
+    "enabled": true
+  },
+  {
+    "name": "Indian Express - India",
+    "url": "https://indianexpress.com/section/india/feed/",
+    "category": "India",
+    "enabled": true
+  },
+  {
+    "name": "Indian Express - World",
+    "url": "https://indianexpress.com/section/world/feed/",
+    "category": "World",
+    "enabled": true
+  },
+  {
+    "name": "BBC News - India",
+    "url": "http://feeds.bbci.co.uk/news/world/asia/india/rss.xml",
+    "category": "India",
+    "enabled": true
+  },
+  {
+    "name": "Economic Times - Economy",
+    "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms",
+    "category": "Economy",
+    "enabled": true
+  },
+  {
+    "name": "LiveMint - Economy",
+    "url": "https://www.livemint.com/rss/economy",
+    "category": "Economy",
+    "enabled": true
+  },
+  {
+    "name": "The Hindu - Science & Tech",
+    "url": "https://www.thehindu.com/sci-tech/?service=rss",
+    "category": "Science & Tech",
+    "enabled": true
+  },
+  {
+    "name": "Indian Express - Technology",
+    "url": "https://indianexpress.com/section/technology/feed/",
+    "category": "Science & Tech",
+    "enabled": true
+  },
+  {
+    "name": "Rajya Sabha TV - Sports",
+    "url": "https://www.thehindu.com/sport/?service=rss",
+    "category": "Sports",
+    "enabled": true
+  },
+  {
+    "name": "The Hindu - Telangana",
+    "url": "https://www.thehindu.com/news/national/telangana/?service=rss",
+    "category": "State",
+    "enabled": true
+  },
+  {
+    "name": "The Hindu - Andhra Pradesh",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/?service=rss",
+    "category": "State",
+    "enabled": true
+  },
+  {
+    "name": "Telangana Today - Top Stories",
+    "url": "https://telanganatoday.com/feed",
+    "category": "State",
+    "enabled": true
+  }
+]
